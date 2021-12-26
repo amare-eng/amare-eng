@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amare-eng
+- 👋 Hi, I’m [https://github.com/amare-eng](Bhargab Nath)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Microservice based web development.
 - 💞️ I’m looking to collaborate on any fast paced environment.
